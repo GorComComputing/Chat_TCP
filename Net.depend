@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670789485 source:d:\it\c\projects\net\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<winsock2.h>
+
